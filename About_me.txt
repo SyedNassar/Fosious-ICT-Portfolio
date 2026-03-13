@@ -1,2 +1,9 @@
-Turning ideas into reality through brainstorming and user-focused solutions.
-As a hobbyist web and software developer, I leverage technology, imagination, and problem-solving to build innovative tools that make the world better.
+I am a BS Software Engineering student at MAJU with a focus on web technologies.
+
+My core interests include Front-End development, UI/UX design, and JavaScript game logic.
+
+I enjoy building responsive websites and creative digital solutions from the ground up.
+
+This portfolio serves as a repository for my academic projects and technical growth.
+
+I am committed to writing clean, efficient code and collaborating with the developer community.
